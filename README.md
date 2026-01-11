@@ -5,25 +5,25 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Developer+%7C+Designer-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Actively+Building-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mindset-Growth+Driven-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Developer%20%7C%20Designer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mindset-Growth%20Driven-ff69b4?style=for-the-badge" />
 </p>
 
 ---
 
 ## 👩‍💼 Professional Summary
-💡 I am a **multi-disciplinary tech professional** with strengths in development, design, and communication.  
-🚀 Passionate about building **real-world solutions**, managing projects, and presenting ideas clearly.  
-🌱 I believe in **continuous learning, skill diversity, and execution excellence**.  
+💡 Multi-disciplinary tech professional with strong skills in **development, design, and project execution**.  
+🚀 Experienced in building **real-world applications**, designing creative solutions, and managing projects.  
+🌱 Believes in **continuous learning, skill diversity, and excellence** in execution.  
 
 ---
 
-## 🌟 Featured Projects
-- 🚀 **Python Projects Hub** – Mini tools, automation scripts, learning exercises  
-- 🎨 **Graphic Design Portfolio** – Branding, layouts, UI/UX visuals  
-- 🌐 **Web Development Projects** – Responsive websites, interactive UI, creative designs  
-- 📌 **Project Management Samples** – Roadmaps, planning, and execution of projects  
+## 🌟 Featured Work & Portfolio
+- 🚀 **Python Projects Hub** – automation scripts, tools, and learning projects  
+- 🎨 **Graphic Design Portfolio** – branding, visual design, UI/UX  
+- 🌐 **Web Development Projects** – responsive, interactive websites  
+- 📌 **Project Management Samples** – planning, workflows, roadmaps  
 
 ---
 
@@ -35,12 +35,12 @@ Java ████████░░░
 C++ ███████░░░░  
 Web Development █████████░░  
 
-Other languages: C, C#, Go, TypeScript, PHP, Ruby, Scala, Swift, Objective-C, Rust  
+**Others:** C, C#, Go, TypeScript, PHP, Ruby, Scala, Swift, Objective-C, Rust  
 
-### Frontend Development
+### Frontend
 HTML5, CSS3, JavaScript, React, Vue.js, Angular, Svelte, Bootstrap, Tailwind, Redux, Sass  
 
-### Backend Development
+### Backend
 Node.js, Express, Django, Flask, Spring, GraphQL, NestJS  
 
 ### Mobile App Development
@@ -49,17 +49,11 @@ Android, Flutter, Dart, Kotlin, React Native, Ionic
 ### AI / ML
 TensorFlow, PyTorch, Pandas, OpenCV, scikit-learn  
 
-### Database & Data Tools
-MySQL, PostgreSQL, MongoDB, Redis, SQLite  
+### Database & Tools
+MySQL, PostgreSQL, MongoDB, Redis, SQLite, Git, VS Code  
 
-### Design & Creative Tools
-Adobe Illustrator, Photoshop, Figma, Blender, UI/UX, Sketch, Framer  
-
-### Professional Skills
-Project Management ████████░░░  
-Communication ██████████░  
-Problem Solving █████████░░  
-Team Coordination ████████░░░  
+### Design Tools
+Adobe Illustrator, Photoshop, Figma, Blender, Sketch, Framer  
 
 ---
 
@@ -67,8 +61,6 @@ Team Coordination ████████░░░
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -81,15 +73,15 @@ Team Coordination ████████░░░
 - 💼 LinkedIn: [Sonia Khan](https://www.linkedin.com/in/sonia-khan-a863a6392)  
 - Fiverr: [Profile](https://www.fiverr.com/sonia_khan034/buying?source=avatar_menu_profile)  
 - Upwork: [Profile](https://www.upwork.com/freelancers/~01feaab9c9daa54082)  
-- GitHub: [soniakhan34](https://github.com/soniakhan34)
+- GitHub: [soniakhan34](https://github.com/soniakhan34)  
 
 ---
 
 ## 📈 GitHub Stats
-![Sonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=soniakhan34&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soniakhan34&layout=compact&theme=radical)
+![Sonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=soniakhan34&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soniakhan34&layout=compact&theme=radical)  
 
 ---
 
 ## ⚡ Fun Fact
-I enjoy mixing **creativity with logic** — design + code is my comfort zone 😄
+- I enjoy mixing **creativity with logic** — design + code is my comfort zone 😄
