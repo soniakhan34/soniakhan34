@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Hi, I'm Sonia Khan 🌟</h1>
+<h1 align="center">🌟 Hi, I'm Sonia Khan 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=FF69B4&center=true&vCenter=true&width=850&lines=Multi-Skilled+Tech+Creator;Python+%7C+Java+%7C+C%2B%2B+Developer;Graphic+Designer+%26+Web+Developer;Turning+Ideas+Into+Impactful+Projects" />
@@ -67,6 +67,37 @@ Adobe Illustrator, Photoshop, Figma, Blender, Sketch, Framer
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
+## 📫 Contact & Profiles
+
+<p align="left">
+  <a href="mailto:soniakhan.com90@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sonia-khan-a863a6392" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.fiverr.com/sonia_khan034/buying?source=avatar_menu_profile" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/fiverr.png" alt="Fiverr" width="40" height="40"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01feaab9c9daa54082" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/upwork.png" alt="Upwork" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/soniakhan34" target="_blank">
+    <img src="https://img.icons8.com/material-rounded/48/000000/github.png" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/yourusername/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://dribbble.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/dribbble.png" alt="Dribbble" width="40" height="40"/>
+  </a>
+  <a href="https://www.behance.net/yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/behance.png" alt="Behance" width="40" height="40"/>
+  </a>
+</p>
 
 ## 📫 Contact Me
 -  Email: [soniakhan.com90@gmail.com](mailto:soniakhan.com90@gmail.com)  
