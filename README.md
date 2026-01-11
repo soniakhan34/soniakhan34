@@ -31,8 +31,11 @@
 
 ### Programming & Development
 Python           ██████████   
+
 Java             ████████ 
+
 C++              ███████ 
+
 Web Development  █████████ 
 
 ---
