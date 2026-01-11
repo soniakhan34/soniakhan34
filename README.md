@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Hi, I'm Sonia Khan 👋</h1>
+<h1 align="center">🌟 Hi,   I'm Sonia Khan 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=FF69B4&center=true&vCenter=true&width=850&lines=Multi-Skilled+Tech+Creator;Python+%7C+Java+%7C+C%2B%2B+Developer;Graphic+Designer+%26+Web+Developer;Turning+Ideas+Into+Impactful+Projects" />
