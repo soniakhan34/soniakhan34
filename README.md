@@ -67,8 +67,9 @@ Adobe Illustrator, Photoshop, Figma, Blender, Sketch, Framer
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
-## 📫 Contact & Profiles
 
+
+## 📫 Contact Me
 <p align="left">
   <a href="mailto:soniakhan.com90@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" width="40" height="40"/>
@@ -88,7 +89,6 @@ Adobe Illustrator, Photoshop, Figma, Blender, Sketch, Framer
   </a>
 </p>
 
-## 📫 Contact Me
 -  Email: [soniakhan.com90@gmail.com](mailto:soniakhan.com90@gmail.com)  
 -  LinkedIn:(https://www.linkedin.com/in/sonia-khan-a863a6392)  
 -  Fiverr: (https://www.fiverr.com/sonia_khan034/buying?source=avatar_menu_profile)  
