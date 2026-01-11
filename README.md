@@ -86,10 +86,7 @@ Web Development  █████████
 - ---
 
 ## ⭐ Support My Work
-
 If you found my projects helpful or interesting, feel free to **follow me on GitHub** and **star the repositories**!  
-
-Your support motivates me to keep building, learning, and sharing more projects. 💖  
-
-[Follow me on GitHub](https://github.com/soniakhan34) 🌟  
+Your support motivates me to keep building, learning, and sharing more projects.💖✨
+[Follow me on GitHub](https://github.com/soniakhan34)🌟  
  
