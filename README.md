@@ -70,10 +70,10 @@ Adobe Illustrator, Photoshop, Figma, Blender, Sketch, Framer
 
 ## 📫 Contact Me
 -  Email: [soniakhan.com90@gmail.com](mailto:soniakhan.com90@gmail.com)  
--  LinkedIn: [Sonia Khan](https://www.linkedin.com/in/sonia-khan-a863a6392)  
--  Fiverr: [Profile](https://www.fiverr.com/sonia_khan034/buying?source=avatar_menu_profile)  
--  Upwork: [Profile](https://www.upwork.com/freelancers/~01feaab9c9daa54082)  
--  GitHub: [soniakhan34](https://github.com/soniakhan34)  
+-  LinkedIn:(https://www.linkedin.com/in/sonia-khan-a863a6392)  
+-  Fiverr: (https://www.fiverr.com/sonia_khan034/buying?source=avatar_menu_profile)  
+-  Upwork: (https://www.upwork.com/freelancers/~01feaab9c9daa54082)  
+-  GitHub: (https://github.com/soniakhan34)  
 
 ---
 
