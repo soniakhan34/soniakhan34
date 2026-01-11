@@ -79,9 +79,6 @@ Adobe Illustrator, Photoshop, Figma, Blender, Sketch, Framer
   <a href="https://www.fiverr.com/sonia_khan034/buying?source=avatar_menu_profile" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/fiverr.png" alt="Fiverr" width="40" height="40"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/~01feaab9c9daa54082" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/upwork.png" alt="Upwork" width="40" height="40"/>
-  </a>
   
   <a href="https://dribbble.com/yourusername" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/dribbble.png" alt="Dribbble" width="40" height="40"/>
