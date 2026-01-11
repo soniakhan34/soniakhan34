@@ -35,26 +35,6 @@ Java ████████░░░
 C++ ███████░░░░  
 Web Development █████████░░  
 
-**Others:** C, C#, Go, TypeScript, PHP, Ruby, Scala, Swift, Objective-C, Rust  
-
-### Frontend
-HTML5, CSS3, JavaScript, React, Vue.js, Angular, Svelte, Bootstrap, Tailwind, Redux, Sass  
-
-### Backend
-Node.js, Express, Django, Flask, Spring, GraphQL, NestJS  
-
-### Mobile App Development
-Android, Flutter, Dart, Kotlin, React Native, Ionic  
-
-### AI / ML
-TensorFlow, PyTorch, Pandas, OpenCV, scikit-learn  
-
-### Database & Tools
-MySQL, PostgreSQL, MongoDB, Redis, SQLite, Git, VS Code  
-
-### Design Tools
-Adobe Illustrator, Photoshop, Figma, Blender, Sketch, Framer  
-
 ---
 
 ## 💻 Skills Badges
@@ -68,32 +48,28 @@ Adobe Illustrator, Photoshop, Figma, Blender, Sketch, Framer
 
 ---
 
-
-## 📫 Contact Me
-<p align="left">
-  <a href="mailto:soniakhan.com90@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sonia-khan-a863a6392" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://www.fiverr.com/sonia_khan034/buying?source=avatar_menu_profile" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/fiverr.png" alt="Fiverr" width="40" height="40"/>
-  </a>
-  
-  <a href="https://dribbble.com/yourusername" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/dribbble.png" alt="Dribbble" width="40" height="40"/>
-  </a>
-  <a href="https://www.behance.net/yourusername" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/behance.png" alt="Behance" width="40" height="40"/>
-  </a>
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soniakhan34&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniakhan34&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
--  Email: [soniakhan.com90@gmail.com](mailto:soniakhan.com90@gmail.com)  
--  LinkedIn:(https://www.linkedin.com/in/sonia-khan-a863a6392)  
--  Fiverr: (https://www.fiverr.com/sonia_khan034/buying?source=avatar_menu_profile)  
--  Upwork: (https://www.upwork.com/freelancers/~01feaab9c9daa54082)  
--  GitHub: (https://github.com/soniakhan34)  
+---
+
+## ☎️ Contact & Profiles
+
+<p align="left">
+  ☎️ <a href="tel:+923001234567">+92 300 1234567</a>  
+  👋 <a href="mailto:soniakhan.com90@gmail.com">Email</a>  
+  💼 <a href="https://www.linkedin.com/in/sonia-khan-a863a6392" target="_blank">LinkedIn</a>  
+  🎨 <a href="https://www.fiverr.com/sonia_khan034/buying?source=avatar_menu_profile" target="_blank">Fiverr</a>  
+  🖤 <a href="https://www.upwork.com/freelancers/~01feaab9c9daa54082" target="_blank">Upwork</a>  
+  🐙 <a href="https://github.com/soniakhan34" target="_blank">GitHub</a>  
+  🐦 <a href="https://twitter.com/yourusername" target="_blank">Twitter</a>  
+  📸 <a href="https://www.instagram.com/yourusername/" target="_blank">Instagram</a>  
+  🎨 <a href="https://dribbble.com/yourusername" target="_blank">Dribbble</a>  
+  🎨 <a href="https://www.behance.net/yourusername" target="_blank">Behance</a>  
+</p>
 
 ---
 
