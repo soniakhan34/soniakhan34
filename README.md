@@ -81,4 +81,15 @@ Web Development  █████████
 ---
 
 ## ⚡ Fun Fact
-- I enjoy mixing **creativity with logic** — design + code is my comfort zone 😄       ab ya ready ha bx thora dis bhi add kro na esa kuch 
+- I enjoy mixing **creativity with logic** — design + code is my comfort zone 😄
+
+- ---
+
+## ⭐ Support My Work
+
+If you found my projects helpful or interesting, feel free to **follow me on GitHub** and **star the repositories**!  
+
+Your support motivates me to keep building, learning, and sharing more projects. 💖  
+
+[Follow me on GitHub](https://github.com/soniakhan34) 🌟  
+ 
