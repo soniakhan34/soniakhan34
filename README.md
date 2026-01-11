@@ -12,14 +12,14 @@
 
 ---
 
-## 👩‍💼 Professional Summary
+##  Professional Summary
 💡 Multi-disciplinary tech professional with strong skills in **development, design, and project execution**.  
 🚀 Experienced in building **real-world applications**, designing creative solutions, and managing projects.  
 🌱 Believes in **continuous learning, skill diversity, and excellence** in execution.  
 
 ---
 
-## 🌟 Featured Work & Portfolio
+##  Featured Work & Portfolio
 - 🚀 **Python Projects Hub** – automation scripts, tools, and learning projects  
 - 🎨 **Graphic Design Portfolio** – branding, visual design, UI/UX  
 - 🌐 **Web Development Projects** – responsive, interactive websites  
@@ -27,7 +27,7 @@
 
 ---
 
-## 🧠 Core Skills
+##  Core Skills
 
 ### Programming & Development
 Python ██████████░  
@@ -48,30 +48,34 @@ Web Development █████████░░
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soniakhan34&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniakhan34&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
----
-
-## ☎️ Contact & Profiles
-
+## ☎️ Contact Me
 <p align="left">
-  ☎️ <a href="tel:+923001234567">+92 300 1234567</a>  
-  👋 <a href="mailto:soniakhan.com90@gmail.com">Email</a>  
-  💼 <a href="https://www.linkedin.com/in/sonia-khan-a863a6392" target="_blank">LinkedIn</a>  
-  🎨 <a href="https://www.fiverr.com/sonia_khan034/buying?source=avatar_menu_profile" target="_blank">Fiverr</a>  
-  🖤 <a href="https://www.upwork.com/freelancers/~01feaab9c9daa54082" target="_blank">Upwork</a>  
-  🐙 <a href="https://github.com/soniakhan34" target="_blank">GitHub</a>  
-  🐦 <a href="https://twitter.com/yourusername" target="_blank">Twitter</a>  
-  📸 <a href="https://www.instagram.com/yourusername/" target="_blank">Instagram</a>  
-  🎨 <a href="https://dribbble.com/yourusername" target="_blank">Dribbble</a>  
-  🎨 <a href="https://www.behance.net/yourusername" target="_blank">Behance</a>  
+  <a href="mailto:soniakhan.com90@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sonia-khan-a863a6392" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.fiverr.com/sonia_khan034/buying?source=avatar_menu_profile" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/fiverr.png" alt="Fiverr" width="40" height="40"/>
+  </a>
+  
+  <a href="https://dribbble.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/dribbble.png" alt="Dribbble" width="40" height="40"/>
+  </a>
+  <a href="https://www.behance.net/yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/behance.png" alt="Behance" width="40" height="40"/>
+  </a>
 </p>
+
+-  Email: [soniakhan.com90@gmail.com](mailto:soniakhan.com90@gmail.com)  
+-  LinkedIn:(https://www.linkedin.com/in/sonia-khan-a863a6392)  
+-  Fiverr: (https://www.fiverr.com/sonia_khan034/buying?source=avatar_menu_profile)  
+-  Upwork: (https://www.upwork.com/freelancers/~01feaab9c9daa54082)  
+-  GitHub: (https://github.com/soniakhan34)  
 
 ---
 
 ## ⚡ Fun Fact
-- I enjoy mixing **creativity with logic** — design + code is my comfort zone 😄
+- I enjoy mixing **creativity with logic** — design + code is my comfort zone 😄       ab ya ready ha bx thora dis bhi add kro na esa kuch 
