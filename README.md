@@ -19,20 +19,43 @@
 
 ---
 
-## 🧠 Core Skill Set
-```text
-Programming & Development
-Python            ██████████░
-Java              ████████░░░
-C++               ███████░░░░
-Web Development   █████████░░
+## 🌟 Featured Work
+- 🚀 **Python Projects Hub** – real-world practice & mini tools  
+- 🎨 **Graphic Design Portfolio** – branding, layouts & visuals  
+- 🌐 **Web Development Projects** – responsive & clean UI  
+- 📌 **Project Management Samples** – planning & execution
 
-Design & Creative
-Graphic Design    ██████████░
-UI / Visual Sense █████████░░
+---
 
-Professional Skills
-Project Management ████████░░░
-Communication      ██████████░
-Problem Solving    █████████░░
-Team Coordination  ████████░░░
+## 🧠 Core Skills
+
+### Programming & Development
+Python ██████████░  
+Java ████████░░░  
+C++ ███████░░░░  
+Web Development █████████░░  
+C, C#, Go, TypeScript, PHP, Ruby, Scala, Swift, Objective-C, Rust
+
+### Design & Creative
+Graphic Design ██████████░  
+UI / Visual Sense █████████░░  
+
+### Professional Skills
+Project Management ████████░░░  
+Communication ██████████░  
+Problem Solving █████████░░  
+Team Coordination ████████░░░  
+
+---
+
+## 📫 Contact
+- 📧 Email: soniakhan.com90@gmail.com  
+- 💼 LinkedIn: [Sonia Khan](https://www.linkedin.com/in/sonia-khan-a863a6392)  
+- Fiverr: [Profile](https://www.fiverr.com/sonia_khan034/buying?source=avatar_menu_profile)  
+- Upwork: [Profile](https://www.upwork.com/freelancers/~01feaab9c9daa54082)  
+- GitHub: [soniakhan34](https://github.com/soniakhan34)  
+
+---
+
+## ⚡ Fun Fact
+- I enjoy mixing creativity with logic — **design + code is my comfort zone** 😄
