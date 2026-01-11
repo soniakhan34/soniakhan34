@@ -80,7 +80,7 @@ Adobe Illustrator, Photoshop, Figma, Blender, Sketch, Framer
     <img src="https://img.icons8.com/color/48/000000/fiverr.png" alt="Fiverr" width="40" height="40"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~01feaab9c9daa54082" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/upwork.png" alt="Upwork" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/upwork.png" alt="Upwork" width="40" height="40"/>
   </a>
   <a href="https://github.com/soniakhan34" target="_blank">
     <img src="https://img.icons8.com/material-rounded/48/000000/github.png" alt="GitHub" width="40" height="40"/>
