@@ -30,10 +30,10 @@
 ##  Core Skills
 
 ### Programming & Development
-Python ██████████░  
-Java ████████░░░  
-C++ ███████░░░░  
-Web Development █████████░░  
+Python           ██████████   
+Java             ████████ 
+C++              ███████ 
+Web Development  █████████ 
 
 ---
 
